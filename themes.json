@@ -66,7 +66,7 @@
           "css": [
             "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=9e5d3feb9787ffd9ef06562eb0e280e052b111db",
             "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/red.css?sha=8b77411d76907a64f6d8f6f368998d93e222b100",
-            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=860f370f1b8e25b26ab9bc45a73632de58c799ce",
+            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=1955e59e179e62c369279341dc1075e1747b77e3",
             "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/custom.css?sha=f02096173938226612d6364769d368f82ddf45b8",
             "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/amber.css?sha=14c5060439078fc9632f96017d9716e8f84692af",
             "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/blue.css?sha=b60f87c35c8bb3953a326e5e5535b4e5ce88709e",
@@ -404,7 +404,7 @@
             "css": [
               "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=9e5d3feb9787ffd9ef06562eb0e280e052b111db",
               "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/red.css?sha=8b77411d76907a64f6d8f6f368998d93e222b100",
-              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=860f370f1b8e25b26ab9bc45a73632de58c799ce",
+              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=1955e59e179e62c369279341dc1075e1747b77e3",
               "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/custom.css?sha=f02096173938226612d6364769d368f82ddf45b8",
               "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/amber.css?sha=14c5060439078fc9632f96017d9716e8f84692af",
               "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/blue.css?sha=b60f87c35c8bb3953a326e5e5535b4e5ce88709e",
